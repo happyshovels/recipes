@@ -1,10 +1,9 @@
 # Spinatspätzle mit Schinken
 
-Original source and video instructions can be found at [Spinatzspätzle mit Schinken](https://www.gutekueche.at/spinatspaetzle-mit-schinken-rezept-23773)
+Original source can be found at [Spinatzspätzle mit Schinken](https://www.gutekueche.at/spinatspaetzle-mit-schinken-rezept-23773)
 
 ## Ingredients
 
-### For meat balls
 - 150g Spinach frozen
 - 300g flour (smooth)
 - 3 eggs
@@ -34,7 +33,7 @@ Original source and video instructions can be found at [Spinatzspätzle mit Schi
 12. Mix with sauce and heat up shortly
 
 
-# Notes
+## Notes
 
 - EL - tablespoon
 - TL - teaspoon

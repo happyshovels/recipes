@@ -13,7 +13,7 @@ all: $(PDFS)
 
 
 $(OUTPUT_DIR)/%.pdf: $(SRC_DIR)/%.md
-	$(MD2PDF) $< $@ 
+	$(MD2PDF) --css=style.css $< $@ 
 
 
 .PHONY: clean
