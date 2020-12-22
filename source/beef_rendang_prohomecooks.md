@@ -3,7 +3,7 @@
 Original source and video instructions can be found at [youtube video](https://youtu.be/KwSODsgqY5k)
  and [original instructions](https://www.prohomecooks.com/post/1-curry-recipe-3-dishes). Slightly adapted for simpler ingredients.
 
-## Ingredients (for 3 Curry dishes)
+## Ingredients
 
 - 1/3 of curry paste from Curry Paste ProHomeCooks
 - 2 TL coconut oil
@@ -26,7 +26,7 @@ Original source and video instructions can be found at [youtube video](https://y
 5. Cook on medium-high heat while stiring
 6. Wait until the curry paste and the oil separates
 7. Add coconut milk (it should cover the beef)
-8. Add cardamon, cumin, star anise, cinnamon and a pinch of salt
+8. Add cardamom (content), cumin, star anise, cinnamon and a pinch of salt
 9. Cook with closed lit (and low heat) for 1.5 hours
 10. Check beef, stir, cook for 30min with half open pot
 11. Remove lit, continue frying for 15-30min
