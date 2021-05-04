@@ -1,5 +1,5 @@
 
-PYTHON=python3.7
+PYTHON=python3.8
 
 # create virtual environement "env"
 $PYTHON -m venv env
