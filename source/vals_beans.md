@@ -2,7 +2,7 @@
 
 Originally done by Val ;)
 
-## Ingredients (for 8 small Naan Breads)
+## Ingredients
 
 - big can of white beans
 - can of kidney beans

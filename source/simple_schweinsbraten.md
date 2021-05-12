@@ -2,7 +2,7 @@
 
 Original source and video instructions can be found at [youtube video](https://youtu.be/8slpbpO6Cpc). Slightly adapted for simpler ingredients.
 
-## Ingredients (for 3 Curry dishes)
+## Ingredients
 
 - 1-1.3kg bauchfleisch
 - 4-5 cloves of garlic
