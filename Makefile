@@ -1,7 +1,7 @@
-PYTHON := $(shell pwd)/env/bin/python3.7
-MD2PDF := $(shell pwd)/env/bin/md2pdf
+PYTHON := /Users/lukas/.pyenv/versions/3.8.12/bin/python3
+MD2PDF := /opt/homebrew/bin/md2pdf
 
-OUTPUT_DIR := /Users/lukas/googledrive/recipes
+OUTPUT_DIR := /Users/lukas/dropbox/recipes
 SRC_DIR := $(shell pwd)/source
 
 MARKDOWN_FILES := $(wildcard $(SRC_DIR)/*.md)
